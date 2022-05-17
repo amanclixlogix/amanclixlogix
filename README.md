@@ -19,10 +19,14 @@ I’m interested in designing solutions, Architect the project and provide techn
 </br>
 <b>Tech Stack and Expertise</b></br>
 Expertise: Devops, Reactjs, Javascript, React Native, Nodejs, iOS, Android
-<br>
+</br>
+</br>
 
-
-<br/>
+<b>How to connect with me</b>
+</br>
+Please connect with our team via this link <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">https://www.clixlogix.com/contact-us/</a>
+</br>
+</br>
 <b>Statics:</b>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amanclixlogix&show_icons=true&theme=gruvbox&hide_border=true" />
